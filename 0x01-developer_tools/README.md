@@ -14,16 +14,16 @@ At the end of this project, you are expected to be able to explain to anyone, wi
     <p style="color: #004085; font-weight: bold;"> Learning Objectives.</p>
 </div>
 
-What Developer Tools in your browser are
-How to open the Developer Tools on Chrome, Firefox, Safari, and Edge.
-How to use the elements tab to edit HTML and CSS
-How to audit a page according to the tips suggested by Lighthouse
-How to create and run snippets on a page
-How to get information about files and server configurations
-How to block requests
-How to know how much JavaScript or CSS is used on a page
-How to detect 404 issues
-How to move elements on a webpage
+<p> What Developer Tools in your browser are? </p>
+<p> How to open the Developer Tools on Chrome, Firefox, Safari, and Edge. </p>
+<p> How to use the elements tab to edit HTML and CSS </p
+<p> How to audit a page according to the tips suggested by Lighthouse </p>
+<p> How to create and run snippets on a page </p>
+<p> How to get information about files and server configurations </p>
+<p> How to block requests </p>
+<p> How to know how much JavaScript or CSS is used on a page </p>
+<p> How to detect 404 issues </p>
+<p> How to move elements on a webpage </p>
 
 ## Author
 
